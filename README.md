@@ -1,7 +1,7 @@
 # ultraman
 
 ## 昭和系
-![Uploading 昭和奥特曼 (1).png…]()
+![昭和奥特曼 (1)](https://github.com/810152690/ultraman/assets/1946356/22df94b4-0bf7-4e3f-ae2d-3d278ec55096)
 
 #### 诺亚奥特曼
 
