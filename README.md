@@ -1,8 +1,7 @@
 # ultraman
 
 ## 昭和系
-奥特之父+奥特曼之母  佐菲 奥特之王
+![昭和奥特曼](https://github.com/810152690/ultraman/assets/1946356/b4e0b7af-5cc0-43ee-94cc-b857dc77b273)
 
-泰罗奥特曼
 
 ## 平成系
