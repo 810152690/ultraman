@@ -73,6 +73,6 @@
 ###### 职位 ：奥特之母是银十字队队长 
 
 #### 佐菲奥特曼
-[简介]（https://github.com/810152690/ultraman/blob/main/zuofei.md）
+[简介](https://github.com/810152690/ultraman/blob/main/zuofei.md)
 
 ## 平成系
